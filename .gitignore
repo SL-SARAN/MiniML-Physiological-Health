@@ -1,0 +1,9 @@
+# Ignore Notes folder
+Notes/
+
+# Ignore R session files
+.RData
+.Rhistory
+
+# Ignore R project user files
+.Rproj.user/
